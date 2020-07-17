@@ -1,0 +1,59 @@
+Work diary
+z5184709
+Yongbiao Zhao
+
+Week 1
+
+· Group formed.
+· I created the group named Microlab。
+· I create a GitHub account and connect with team members.
+· I create a Jira account and connect with team members.
+
+
+Week 2
+
+· Our group determine the subject of the group: ConfManager Description.
+· Our group determine the division of labor for everyone and the content of the first step: proposal.
+· I also found and discussed with the team 
+· Together with Xiaotian Lin, I wrote the User Stories and Sprints section.
+
+Week 3
+
+· Together with our group. The main functions of the website are analyzed through the results of the questionnaire survey.
+· I found functions that can be improved by analyzing the existing ConfManager website.
+· Together with Xiaotian Lin, I designed the E-Prototype.
+· I also found interface software tools and libraries which include jQuery, Ajax, JSP, MySql and HTML that we can use for the project.
+
+Week 4
+
+· Together with Xiaotian Lin, I wrote the first version of Top part of web page(Logo and system name).
+· Together with Xiaotian Lin, I wrote the Login page which include HTML and JSP.
+· Together with Xiaotian Lin, I wrote the Register page which include HTML and JSP.
+· I found a bug: the login page could not be returned and then I corrected it.
+· I adjusted the size and position of the fonts so that they look more harmonious.
+
+Week 5
+
+· Together with Xiaotian Lin, I modified the frame structure and content of the left menu.
+· I participated in the demo demonstration and made the demonstration ppt.
+· I decided to add some pictures to make the page more vivid.
+· I changed the color at the bottom of the logo to blend it with the page.
+· I fixed a bug: the problem that the password modification part cannot be realistic.
+· I created the Management page, including HTML and JSP. It can add conferences with different ‘Department name’ and display them in numerical order. It can also modify or delete the names and details of conferences that have already been published.
+· I made the Meeting Approval page, including HTML and JSP, Here it can see the information of all conference registrants. it can approve or reject the request of the conference registrant.
+· I fixed a bug: The typesetting of the applicant information is wrong, the name spacing is too small, and the names overlap.
+
+Week 6
+
+· Together with Xiaotian Lin, I design the Home page and add two picture which can touch to login and register pages.
+· I finished Search Employee Page, including HTML and JSP, it can search for the conference you want to find by name and account as keywords.
+· I fixed a bug: The last page button is invalid.
+· I finished Check Meeting Rooms Page, including HTML and JSP. The operation is to view the details, you can jump to the modify meeting room information page, the page saves all the current meeting room information, and can be modified
+· I fixed a bug: Viewing details does not jump normally
+· I finished Book Meetings Page, including HTML and JSP. It can fill in the meeting information by clicking the scheduled meeting. it also can add the start and end time to the meeting information to ensure the timeliness of the meeting and express the content of the meeting by filling in a simple meeting description.
+· I finished Search Meetings Page, including HTML and JSP. It can search for conferences by keyword search, including conference name search, conference author search and reserved person name search.
+
+Week 7
+
+· I modified the problems that appeared on Jira, and revised and added the content of sprint part.
+· I changed the layout again and added different elements to make the page more lively and interesting.
