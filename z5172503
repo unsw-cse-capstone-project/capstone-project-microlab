@@ -1,0 +1,51 @@
+Week 1 
+team building. I created Jira and GitHub accounts. 
+I also found the team and discussed with the team the project that our team will complete. And all available software tools and libraries for the project.
+
+Week 2 
+Determined the tasks we each need to complete.
+Together with Yongbiao Zhao, I wrote the User Stories and Sprints section.
+I am responsible for the front end. Familiar with Javascript, CSS, HTML, jQuery, Ajax, JSP, MySql and other technologies.
+
+Week 3
+Discuss the task details with the group.
+A total of the required pages, the specific look of the page.
+Together with Yongbiao Zhao, I designed the E-Prototype.
+
+Week 4
+Together with Yongbiao Zhao. Designed HTML and JSP file pages for login and register.
+Together with Yongbiao Zhao, designed the top page, which contains the logo designed by the two of us, and added an option to change the password.
+Together with Yongbiao Zhao, designed LeftMune, which contains the main functions and pages we will design in the future.
+For login and register pages, I adjusted the color of the page.
+I adjusted the size of the border.
+I adjusted the layout of LeftMune HTML and JSP page.
+I adjusted the size and position of the input box for login and register.
+
+Week 5 
+I attended the demo show.
+Together with Yongbiao Zhao, we revised the layout and content of LeftMune together.
+The instructor gave us a lot of effective suggestions, we decided to add an additional landing page, and this page must contain a lot of pictures to make it more interesting.
+Modified the bug of the changepassword page, because it cannot jump normally.
+In the "my profile" column, I completed the HTML and JSP pages of Notifications.
+In the "my profile" column, I completed the Mybooking HTML and JSP pages.
+In the "my profile" column, I completed the My Meeting HTML and JSP pages.
+Fixed the bug:
+1. The position of the user name and password input interface is incorrectly adjusted, occupying the position of leftmune, resulting in typographical errors
+2. The format of the password input box is incorrect, it should be a standard password input, that is, the input information is hidden
+
+Week 6 
+Together with Yongbiao Zhao, we have completed the design of firstpage HTML and JSP page so that it can effectively connect to login and register.
+In the ‘Meetings’ column, I completed the Add Meeting HTML and JSP pages.
+In the ‘Meetings’ column, I completed the Check Meeting Rooms HTML and JSP pages.
+Fixed the bug:
+1. After logging in, the top page does not display the user name of the user who has logged in
+2. During debugging, there is no difference between the leftmune of the user and the manager
+Fixed the bug:
+3. In ‘My booking’, the table’s length, width, and height are not reasonable and need to be debugged
+4. In ‘My booking’, some examples need to be included in the form
+5. View details jump failed, error code 404
+
+Week 7
+This week's demo shows that we learned the style of the page that the tutor wanted, so we decided to revise our page again.
+I plan to revise all pages again, including adding pictures, scrollable pictures, and options that can automatically pop up.
+Perfection has increased the number of cases where Jira is not enough, learned how to use Jira, and added dozens of messages.
