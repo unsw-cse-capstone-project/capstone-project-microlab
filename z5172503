@@ -64,3 +64,19 @@ Week 7
 This week's demo shows that we learned the style of the page that the tutor wanted, so we decided to revise our page again.
 I plan to revise all pages again, including adding pictures, scrollable pictures, and options that can automatically pop up.
 Perfection has increased the number of cases where Jira is not enough, learned how to use Jira, and added dozens of messages.
+Together with Yongbiao Zhao, Yibo Wu, I finished below jobs:
+1. Designed a brand new main page
+2. The new main page includes a new registration/login entry
+3. The new main page can see part of the conference information currently available in the conference system
+4. The main page can see the basic information of the company team
+5. The new main page can jump to the registration page, which includes the registered name, email, password, subordinate department
+6. The new main page can be directly logged in, through my user name and password
+7. A new jump button is added, which can actively jump to the main page under any page
+8. All pages can be adjusted with page zoom
+Fixed bugs below:
+1. The main page rotation picture does not automatically rotate
+2. The size setting of the main page picture does not fit the page size
+3. Some pictures failed to display
+4. The login/register page needs to add a background image
+5. There is no login error message on the login page
+6. The registration page lacks department options
