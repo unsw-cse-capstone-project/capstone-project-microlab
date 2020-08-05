@@ -1,0 +1,53 @@
+Zhihao Yang
+z5055226
+
+Week 1
+-Team fromed
+-Create jira and github account
+
+Week 2
+-Discuss and choose proejct's topic with teams and wrote project proposal
+-I am resiponsible for the backend tecnical part in the proposal
+-Research some backend framework.
+
+week 3
+-Me and TianXiangRong designed the backend architecture for our proejct.
+-We decided to use java servlet as our main framework ,tomcat as our server and mysql as our database.
+-We designed the database structure
+
+week 4
+-finished the loginin and register function for our project,fixed some bugs.
+-finished most of the java class representation for our proejct.
+
+week 5
+-finished the account approval function
+-prepared for the first demo.
+
+week 6
+-finished the book conference and cancel conference function
+-finished the sengrid email api
+-fixed some typo on the code
+
+week 7
+-finished the search fucntion on conference and the user
+-fixed some typo on the code
+
+week 8
+-prapare for the second demo.
+-added a search function on the main page
+-fixed a 404 error bug when the we try to book conference and cencel conference
+
+week 9 
+-Implenmented the reconmmedation fucntion by showing the conference with the same catagory.
+-Improved the code quatily.
+-added a fuzzy search on the current search function.
+-fixed some typo on the code
+
+week 10
+-prepared the final report, I am responsible for the user manual part and function part.
+-prepared the final demo.
+-fixed some typo on the code
+-add some comments on back-end code.
+-prepared the final report, I am responsible for the user manual part and function part.rep-s
+-prepared the final report, I am responsible for the user manual part and function part.rep-s
+-prepared the final report, I am responsible for the user manual part and function part.rep-
