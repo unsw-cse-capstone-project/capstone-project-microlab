@@ -1,0 +1,63 @@
+z5227456
+Tianxiang Rong
+
+
+Week 1
+- Group formed
+- Join GitHub team
+- Create Jira account and join the Jira team
+- Learn how Jira works
+
+Week 2
+- After discussion, it was finally decided to choose the meeting management project
+- Our group determine everyone's division of labor in the proposal
+- I research on several popular backend frameworks including Spring Boot, Laravel, and Servlet
+- Learn mysql and compare it with the postgresql which learned in COMP9311
+
+Week 3
+- We decided to adopt servlet and jsp as the framework of our entire project
+- Zhihao Yang and I are responsible for the back-end part, including bean, dao, service, servlet and part of jsp
+- I initially decided on the structure of the database and drawn the ER diagram
+- In the proposal, I write for the part of system architecture and draw of flow diagrams
+
+Week 4
+- Familiar with servlet-based java web framework
+- Configure the environment, complete the installation of tomcat, mysql
+- Write sql file, based on the ER diagram written before
+- The five tables created in the database are department, employee, meeting, meetingparticipants, meetingroom
+- I completed the first servlet in our project, login servlet and part of the login jsp
+- Use fake data to test the login function
+
+Week 5
+- Yang Zhihao and I completed the registration function
+- Including registration of jsp, servlet, service, dao
+- I completed the registration review function, and all registered users need to pass the administrator
+- I Complete the registration page and login page docking with the left bar and top bar in front end
+- Prepare for the first demo
+
+Week 6
+- Add meeting registration function, users can choose the corresponding meeting room, participants, meeting time
+- The database is a huge mistake, because this project should be large academic conferences than company's meetings
+- Reconsidering the database structure, and finally decided to keep the original table unchanged. Replace the room table with the corresponding location
+- Finish adding location function
+- Connect the add location function to the admin interface, and connect the registration meeting function to the admin interface and user interface
+- Fix the bug of reconfirming the password during registration does not take effect
+
+Week 7
+- Add conference detail for My booking and My conference
+- Add delete meeting function in conference detail
+- Fix the bug that you cannot select yourself in the booking meeting
+- Read the google map api manual to prepare for adding to the meeting
+
+Week 8
+- Add Google Map API to meetingdetail.jsp to generate a google map with random coordinates
+- Do research on Google Map API using address to generate map
+- Fix the bug that you can't see the details of meetings that you didn't create by yourself
+
+Week 9
+- Add Google Map Geocode API to meetingdetail.jsp to generate coordinates with specific location
+- Combine google map api and geocoder to make the detailed interface directly display the google map of the corresponding location
+
+Week 10
+- perpare for last demo
+- prepare for report, and I am responsible of challenges and part of functions
